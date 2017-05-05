@@ -18,8 +18,8 @@ Użycie Python
 ==============
 
 Do użycia potrzebne są następujące pliki: 
--geotagPixhawk.py 
--mavlink_control - zbudowany oraz z nadanymi prawami do wykonywania
+- geotagPixhawk.py 
+- mavlink_control - zbudowany oraz z nadanymi prawami do wykonywania
 
 Wywołanie funkcji:
 
