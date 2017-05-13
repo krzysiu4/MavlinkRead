@@ -1,4 +1,7 @@
 import subprocess
+import sys
+sys.path.append('/usr/local/lib/python3.5/dist-packages/')
+
 import os.path
 import piexif
 
